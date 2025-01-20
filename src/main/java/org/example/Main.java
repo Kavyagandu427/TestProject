@@ -10,6 +10,8 @@ public class Main {
         System.out.println("TESTING GIT AGAIN");
         System.out.println("Hi");
 
+        System.out.println("pushing changes to remote");
+
 
 
     }
