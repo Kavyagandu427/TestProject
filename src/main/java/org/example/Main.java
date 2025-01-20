@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Testing git");
 
         System.out.println("TESTING GIT AGAIN");
+        System.out.println("Hi");
+
 
 
     }
